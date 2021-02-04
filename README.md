@@ -11,6 +11,9 @@ Con la automatización de reglas topológicas se previenen errores, sobre todo a
 Las reglas de topología aseguran que los conjuntos de datos cumplen con las condiciones especificadas en cada regla. Lograr implementar esto es un proceso imprescindible para asegurar la integridad y calidad de los datos espaciales.
 
 ## **Proyecto 2020:**
+
+[**Video que resume el trabajo realizado.**](https://www.youtube.com/watch?v=qsLTj3vPGZQ&t=162s)
+
 **Link a la página wiki: https://github.com/Maureque/GSoC2020-topology-osgeo-gvsig/wiki**
 
 **OSgeo página wiki: https://wiki.osgeo.org/wiki/New_rules_for_the_Topology_Framework_in_gvSIG_Desktop_(_GSoC_2020_)**
